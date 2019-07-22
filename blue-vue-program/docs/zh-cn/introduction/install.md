@@ -16,6 +16,10 @@ npm i 或者 cnpm i
 npm run serve
 ```
 
+## SASS的依赖
+
+- [blue-components](https://github.com/azhanging/blue-components) 下载到/assets/css中
+
 ## 某些npm包的问题
 
 npm包中存在bug

@@ -37,11 +37,6 @@
 - vue-config （公共的vue.config.js配置）
   - index.js (公共vue.config.js，会被项目的vue.config.js扩展)
 - package.json (公共层依赖)
-```
-
-
-## SASS的依赖
-
-- [blue-components](https://github.com/azhanging/blue-components) 下载到/assets/css中 
+``` 
 
 

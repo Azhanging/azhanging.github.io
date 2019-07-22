@@ -1,7 +1,12 @@
 - 入门
-  - [介绍](zh-cn/introduction/)
   - [目录结构](zh-cn/introduction/dir)
   - [安装](zh-cn/introduction/install)
-- blue-vue-tmpl
-  - [项目](zh-cn/)
-- [指南](zh-cn/introduction/guide)
+- 公共层
+  - [Vue](zh-cn/public/vue)
+  - [Vue-Router](zh-cn/public/vue-router)
+  - [公共组件](zh-cn/public/components)
+- blue-vue-tmpl(demo)
+  - [项目](zh-cn/program/dir)
+  - [使用](zh-cn/program/main)
+  - [扩展](zh-cn/program/extend)
+  - [config](zh-cn/program/config)

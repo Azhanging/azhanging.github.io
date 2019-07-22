@@ -1,0 +1,25 @@
+.github-corner svg {
+	fill: #337ab7;
+}
+
+.sidebar ul li.active > a, .markdown-section a {
+	color: #337ab7;
+}
+
+section.cover .cover-main > p:last-child a {
+	border-color: white;
+	color: white;
+}
+
+section.cover .cover-main > p:last-child a:last-child:hover {
+	color: #999;
+}
+
+.cover-main, .cover-main .anchor span {
+	color: white;
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+	background-color: white;
+	color: #666;
+}
