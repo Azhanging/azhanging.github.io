@@ -11,7 +11,7 @@
 	<body>
 		<div id="app"></div>
 		<script>
-			var githubUrl = 'https://raw.githubusercontent.com/Azhanging/azhanging.github.io/master/blue-vue-program/docs/zh-cn';
+			var githubUrl = 'https://raw.githubusercontent.com/Azhanging/azhanging.github.io/master/blue-vue-program/docs';
 			window.$docsify = {
 				name: 'blue-vue-program',
 				repo: 'https://github.com/azhanging/blue-vue-program',
@@ -20,7 +20,7 @@
 				//侧边栏的登记
 				maxLevel: 10,
 				alias:{
-				  'zh-cn/(.*)': githubUrl + '/$1'
+				  '/_(.*)': githubUrl + '/$1'
 				}
 			}
 		</script>
